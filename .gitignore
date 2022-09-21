@@ -1,6 +1,6 @@
 #忽略的git上传文件或文件夹
 /node_modules
-/deploy.sh
+deploy.sh
 */.DS_Store
 .DS_Store
 */.idea/
